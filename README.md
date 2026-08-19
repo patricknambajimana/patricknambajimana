@@ -1,26 +1,14 @@
-# Hi there, I'm Patrick Nambajimana 👋
+# Hi, I'm Patrick Nambajimana 👋
 
-### Full-Stack | AI | Mobile | Embedded Systems Developer
+### Full-Stack | AI | Mobile | Embedded Developer
 
-I specialize in building high-performance applications across web, mobile, AI, and embedded systems.  
-I work with multiple programming languages and modern technologies to deliver clean, scalable, and production-ready solutions.
-
----
-
-### 🚀 What I Do Best
-
-- **Backend & APIs** → Python, Node.js, Express, Java, Flask, FastAPI  
-- **Frontend** → JavaScript, React, Tailwind CSS  
-- **Mobile Development** → Kotlin (Android), React Native, Flutter  
-- **Embedded Systems** → C, C++  
-- **AI / Machine Learning** → Python-based AI solutions  
-- **Databases & Cloud** → SQL & NoSQL databases + major cloud platforms
+I build scalable web apps, mobile applications, AI solutions, and embedded systems.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Languages
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,7 +16,7 @@ I work with multiple programming languages and modern technologies to deliver cl
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### Frameworks & Libraries
+**Frameworks**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -37,52 +25,37 @@ I work with multiple programming languages and modern technologies to deliver cl
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Databases
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### Cloud & DevOps
+**Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=patricknambajimana&show_icons=true&theme=dark&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricknambajimana&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=patricknambajimana&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricknambajimana&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 💼 Open to Work
+### 💼 Open to Opportunities
 
-I'm currently available for **freelance**, **full-time**, and **contract** opportunities in:
-
-- Full-Stack Development (Node.js / Python / Java)  
-- Mobile App Development (React Native, Flutter, Kotlin)  
-- AI & Backend Engineering  
-- Embedded Systems Development (C / C++)  
-- Cloud-based solutions (AWS, Azure, GCP)
-
-Let’s build something great together!
+Available for **Full-Stack**, **Mobile**, **AI**, and **Embedded** roles (Freelance / Full-time / Contract).
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-
----
-
-⭐️ From [patricknambajimana](https://github.com/patricknambajimana)
