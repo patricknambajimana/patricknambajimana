@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Nambajimana 👋
 
-### Full-Stack | AI | Mobile | Embedded Developer
+### Full-Stack |Data Scientist|
 
 I build scalable web apps, mobile applications, AI solutions, and embedded systems.
 
